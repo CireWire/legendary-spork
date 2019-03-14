@@ -1,0 +1,17 @@
+.heading {
+  text-align: center;
+  color: red;
+  font-family: 'Courier New', Courier, monospace;
+}
+#subtitle {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: underline;
+  font-size: 12px
+}
+
+#clickMe {
+border-radius: 10px;
+color:white;
+background-color: black;
+}
